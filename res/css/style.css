@@ -1,0 +1,15 @@
+header{
+    background-color:#00b894 ;
+}
+.carousel-caption h3{
+    color: white;
+
+}
+.section-a h1{
+    font-size: 40px;
+    color: #0984e3;
+}
+.section-b .col-lg-4{
+    justify-content: center;
+    display: flex;
+}
